@@ -21631,17 +21631,6 @@ cr.getProjectModel = function() { return [
 			2742388164698252,
 			[
 			[
-				17,
-				cr.plugins_.Mouse.prototype.cnds.OnAnyClick,
-				null,
-				1,
-				false,
-				false,
-				false,
-				2675801903908215,
-				false
-			]
-,			[
 				6,
 				cr.plugins_.Touch.prototype.cnds.IsTouchingObject,
 				null,
